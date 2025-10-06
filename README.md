@@ -1,9 +1,14 @@
-# 👋 Olá, eu sou o Rodrigo Ferreira da Silva  
+# 👋 Hi, I'm Rodrigo!
 
 💻 **Desenvolvedor Full Stack Júnior** apaixonado por tecnologia e por criar soluções que facilitam o dia a dia das pessoas.  
 Tenho experiência em **suporte técnico, manutenção de sistemas e liderança de equipes**, atuando em projetos que otimizaram processos internos e modernizaram serviços públicos.
 
 🚀 Atualmente, estou desenvolvendo projetos com foco em **React, Next.js, TypeScript, Node.js, PHP (CodeIgniter)** e **SQL**, sempre buscando aplicar boas práticas, escalabilidade e design centrado no usuário.
+
+💻 **Junior Full Stack Developer** passionate about technology and building solutions that make people's daily lives easier.  
+I have experience in **technical support, system maintenance, and team leadership**, working on projects that optimized internal processes and modernized public services.
+
+🚀 Currently developing projects focused on **React, Next.js, TypeScript, Node.js, PHP (CodeIgniter)** and **SQL**, always aiming to apply best practices, scalability, and user-centered design.
 
 ---
 
