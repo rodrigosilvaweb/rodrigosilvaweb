@@ -31,9 +31,6 @@ I have experience in **technical support, system maintenance, and team leadershi
 
 ### 📌 Featured Projects & Experience
 
-- 🖥️ **Sistemas Internos em PHP (CodeIgniter)** — Aplicações para automatizar processos e reduzir papelada em órgãos públicos.  
-- ⚙️ **Infraestrutura e Suporte Técnico** — Experiência na implantação de sistemas, redes e gestão de TI.
-
 - 🖥️ **Internal Systems in PHP (CodeIgniter)** — Applications to automate processes and reduce paperwork in public institutions.  
 - ⚙️ **Infrastructure & IT Support** — Experience in system deployment, network setup, and IT management.
 
