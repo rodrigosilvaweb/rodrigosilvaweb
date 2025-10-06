@@ -30,9 +30,8 @@ Tenho experiência em **suporte técnico, manutenção de sistemas e liderança 
 
 ### 📫 Conecte-se comigo  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigoferreiradasilva)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rodrigoferreiradasilva)
-[![Email](https://img.shields.io/badge/Email-rodrigoferreiradasilva%40gmail.com-red?style=for-the-badge)](mailto:rodrigoferreiradasilva@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigosilvaweb/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rodrigosilvaweb)
 
 ---
 
