@@ -12,7 +12,7 @@ I have experience in **technical support, system maintenance, and team leadershi
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,17 +29,18 @@ I have experience in **technical support, system maintenance, and team leadershi
 
 ---
 
-### 📌 Projetos em Destaque
+### 📌 Featured Projects
 
 - 🖥️ **Sistemas Internos em PHP (CodeIgniter)** — Aplicações para automatizar processos e reduzir papelada em órgãos públicos.  
 - ⚙️ **Infraestrutura e Suporte Técnico** — Experiência na implantação de sistemas, redes e gestão de TI.
 
 ---
 
-### 📫 Conecte-se comigo  
+### 🤝 Connect with Me 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigosilvaweb/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rodrigosilvaweb)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigoferreirajag@gmail.com)
 
 ---
 
